@@ -1,4 +1,4 @@
-# MEAN Token Auth
+# MEAN stack project
 
 - [MongoDB](http://www.mongodb.org/)
 - [Express](http://expressjs.com/)
@@ -6,9 +6,6 @@
 - [Node.js](http://nodejs.org)
 - [Satellizer](https://github.com/sahat/satellizer)
 
-## Questions
-
-### How do you set up email and/or password reset?
 
 **Steps:**
 
